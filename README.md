@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eliya27
+- 👋 Hi, I’m Eliya Gervas
 - 👀 Passionate Software Developer
 - 🌱 University of Dar-es-salaam, Final year Computer scientist
 - 💞️ I’m looking for opportunity to collaborate on any project involving MERN stack
